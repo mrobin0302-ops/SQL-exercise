@@ -21,7 +21,6 @@ This exercise is structured as a comprehensive refresher covering essential data
 * `Fichier_propre.ipynb` – Clean, fully executed Jupyter Notebook containing all completed exercises and solutions.
 * `Installation.ipynb` – Setup guide for dependencies and environment configuration.
 * `README.md` – Project overview and documentation.
-* 'Untilted.ipynb' - Practice workspace used for testing queries and scripts.
 * `pyproject.toml` & `.python-version` – Configuration files for Python version management and project dependencies.
 * `.gitignore` – Specifies intentionally untracked files (such as local virtual environments) to ignore.
 
